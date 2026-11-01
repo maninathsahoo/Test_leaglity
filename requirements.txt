@@ -1,0 +1,9 @@
+flask>=3.0,<4
+celery[redis]>=5.3,<6
+redis>=5.0,<6
+sqlalchemy>=2.0,<3
+flask-sqlalchemy>=3.1,<4
+psycopg2-binary>=2.9,<3
+python-dotenv>=1.0,<2
+pytest>=8.0,<9
+pytest-cov>=4.1,<6
